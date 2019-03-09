@@ -1,0 +1,12 @@
+$ git clone "https://github.com/Jatindermann86/MAD314-CV-1896568":
+ i used this command to create report file to my computer.
+$ cd MAD314-CV-1896568
+it will change working directory to MAD314-CV-1896568
+ $ git pull "https://github.com/richbighouse/MAD314-CV-InClassAssignment":
+it will copy all the file of the directory MAD314-CV-InClassAssignment
+$ git add -A
+it will add all the files to 
+$ Git commit -m"i am doing this":
+it will commit all the files 
+$ git push:
+it will push all the files to online repository.
